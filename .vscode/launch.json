@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: <rest> Debug",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/rest.csproj"
+        },
+       
+    ]
+}
