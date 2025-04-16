@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bGHUvyBvsAlKTLhSNFbGFC4Cx1Fvvr5NgyhNLLAzvFHwenOc/8cZGgSdGIbwdtEkVzetsDmQqpOmEeqT2Fcf6w==",
+  "dgSpecHash": "B4q6vT//t2CLdbPsF718tfqkWzCTq+I15SEuJLZLKMQvAi3Q5tsWFiKAwDmmcZ7JfYP7mCCNeR/YlmG5ueqOng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\coiac\\Documents\\GitHub\\rest\\rest\\rest.csproj",
+  "projectFilePath": "C:\\Users\\coiac\\Documents\\GitHub\\rest\\API-rest-mini-game\\rest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\coiac\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\coiac\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.4\\microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\coiac\\Documents\\GitHub\\rest\\rest\\rest.csproj": {}
+    "C:\\Users\\coiac\\Documents\\GitHub\\rest\\API-rest-mini-game\\rest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\coiac\\Documents\\GitHub\\rest\\rest\\rest.csproj": {
+    "C:\\Users\\coiac\\Documents\\GitHub\\rest\\API-rest-mini-game\\rest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\coiac\\Documents\\GitHub\\rest\\rest\\rest.csproj",
+        "projectUniqueName": "C:\\Users\\coiac\\Documents\\GitHub\\rest\\API-rest-mini-game\\rest.csproj",
         "projectName": "rest",
-        "projectPath": "C:\\Users\\coiac\\Documents\\GitHub\\rest\\rest\\rest.csproj",
+        "projectPath": "C:\\Users\\coiac\\Documents\\GitHub\\rest\\API-rest-mini-game\\rest.csproj",
         "packagesPath": "C:\\Users\\coiac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\coiac\\Documents\\GitHub\\rest\\rest\\obj\\",
+        "outputPath": "C:\\Users\\coiac\\Documents\\GitHub\\rest\\API-rest-mini-game\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
