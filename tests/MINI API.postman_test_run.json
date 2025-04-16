@@ -1,0 +1,132 @@
+{
+	"id": "8f4b6b7b-fc94-4c5d-b6b1-4081387d2769",
+	"name": "MINI API",
+	"timestamp": "2025-04-16T02:36:40.397Z",
+	"collection_id": "42857352-19a722ed-8bbc-4439-a284-7085b464ffc8",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"delay": "30",
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2025-04-16T02:36:38.483Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "62898232-8b2a-499a-b8da-54c5270a9f73",
+			"name": "inserir Item",
+			"url": "http://localhost:5261/items",
+			"time": 451,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				451
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "7e5d681e-c967-40a2-8ceb-97c9f7760253",
+			"name": "Listar Itens",
+			"url": "http://localhost:5261/items",
+			"time": 28,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				28
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "914017fa-d904-4980-9cd6-8c92b3fab0e7",
+			"name": "Filtrar Lista",
+			"url": "http://localhost:5261/items/38346803-a3fa-45ad-9282-d097dfd4ab8b",
+			"time": 27,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				27
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "054f2a24-55e2-4402-aaad-a69aea15850e",
+			"name": "alterar item",
+			"url": "http://localhost:5261/items/38346803-a3fa-45ad-9282-d097dfd4ab8b",
+			"time": 18,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				18
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "3b9d74db-2911-4ae6-a314-ec201929acff",
+			"name": "deletar",
+			"url": "http://localhost:5261/items/38346803-a3fa-45ad-9282-d097dfd4ab8b",
+			"time": 9,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				9
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 533,
+	"collection": {
+		"requests": [
+			{
+				"id": "62898232-8b2a-499a-b8da-54c5270a9f73",
+				"method": "POST"
+			},
+			{
+				"id": "7e5d681e-c967-40a2-8ceb-97c9f7760253",
+				"method": "GET"
+			},
+			{
+				"id": "914017fa-d904-4980-9cd6-8c92b3fab0e7",
+				"method": "GET"
+			},
+			{
+				"id": "054f2a24-55e2-4402-aaad-a69aea15850e",
+				"method": "PUT"
+			},
+			{
+				"id": "3b9d74db-2911-4ae6-a314-ec201929acff",
+				"method": "DELETE"
+			}
+		]
+	}
+}
