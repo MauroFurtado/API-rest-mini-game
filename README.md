@@ -40,9 +40,7 @@ Certifique-se de que o **MongoDB** está instalado e em execução. Atualize as 
 ```json
 "MongoDbSettings": {
   "Host": "localhost",
-  "Port": "27017",
-  "User": "seu_usuario",
-  "Password": "sua_senha"
+  "Port": "27017",  
 }
 ```
 
